@@ -4,9 +4,9 @@
 
 **Time**: Monday 6:00pm - 8:50pm
 
-**Location**: ATG-123 (Armitage Hall)
+**Location**: BSB 336 (Armitage Hall)
 
-**Office Hours**: Monday 5:00-6:00pm in ATG-310
+**Office Hours**: Monday 5:05-6:00pm in BSB 336
 
 ### Computer Use
 This is a hands on, coding-heavy course. Bringing your own computer is highly recommended when possible. If you do not have your own computer, you may use one of the computers on campus.
