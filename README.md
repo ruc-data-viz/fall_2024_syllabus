@@ -16,7 +16,7 @@ This is a hands on, coding-heavy course. Bringing your own computer is highly re
 **Name**: *William Foran*
 
 
-**Email**: william.foran@rutgers.edu
+**Email**: wbf9@camden.rutgers.edu or william.foran@rutgers.edu
 
 ## Course Description
 
@@ -37,10 +37,10 @@ Several guides are provided to help students with the course.
 
 The semester will feature the following grades:
 
-* 10 quizzes: 15%
+* 9 quizzes: 5%
 * 8 homework assignments: 45%
-* 1 midterm examination: 20%
-* 1 final project: 20%
+* 1 midterm examination: 25%
+* 1 final project: 25%
 
 Assignments and quizzes cannot be made up if missed, with exceptions given only to events that require university support.
 
@@ -62,23 +62,25 @@ There will be opportunities for extra credit. Any point(s) awarded are applied d
 
 ### Course Outline
 
-Our week-to-week is organized as follows, though it is subject to change depending on class pace. Below `A#` refers to when assignments are given and `Q#` refers to when quizzes are given:
+Our week-to-week is organized as follows, though it is subject to change depending on class pace. Quizzes are take-home, due Wednesday at 11:59pm from when they are given (~48 hours). You will have 45 minutes to complete the quiz from the time you accept the Quiz to the time you submit the Quiz, which I will track via GitHub. See Canvas announcement posted September 30, 2024 called "Quizzes" for more information.
 
-* **09/09**: Course Introduction, Course Tools, Python Programming, `Jupyter` (A1)
-* **09/16**: More on Python Programming, and Intro to `NumPy`, `pandas` (A2)
-* **09/23**: Everything `pandas` (Q1)
-* **09/30**: Software Hygiene, Loading and cleaning data (A3, Q2)
-* **10/07**: Intro to plotting (Q3)
-* **10/14**: Visualizing data with holoviews and hvplot (A4, Q4)
-* **10/21**: Intro to OOP, Midterm
-* **10/28**: Utilizing OOP (A5)
-* **11/04**: Multivariate Data and Transforms (Q5)
-* **11/11**: Correlation and Fitting (A6, Q6)
-* **11/18**: Intro to Interactive Visualizations and Dashboards (Q7)
-* **11/25**: Building robust dashboards (A7, Q8)
-* **12/02**: Working with data - start to finish (A8, Q9)
-* **12/09**: Working with data - start to finish (Q10)
-* **12/16**: Final Projects Due
+Below, A# refers to when assignments are given and Q# refers to when quizzes are given. There is also a note for when the individual Assignments are due, which is always one week after they are given.
+
+* **09/09: Course Introduction, Course Tools, Python Programming, `Jupyter`** (A1)
+* **09/16: More on Python Programming, and Intro to `NumPy`, `pandas`** (A2) (A1 due)
+* **09/23: Everything `pandas`** (Q1) (A2 due)
+* **09/30: Software Hygiene, Loading and cleaning data** (A3, Q2)
+* **10/07: Intro to plotting** (Q3) (A3 due)
+* **10/14: Visualizing data with holoviews and hvplot** (Q4)
+* **10/21: Midterm** (A4)
+* **10/28: Intro to and Utilizing OOP** (A5) (A4 due)
+* **11/04: Intro to Interactive Visualizations and Dashboards** (Q5) (A5 due)
+* **11/11: Building robust dashboards** (A6, Q6)
+* **11/18: Multivariate Data and Transforms** (Q7) (A6 due)
+* **11/25: Correlation and Fitting** (A7, Q8)
+* **12/02: Geographic Data and Visualizations** (A8, Q9) (A7 due)
+* **12/09: Final Project Help - Extended Office Hours from 5-9pm** (A8 due)
+* **12/16: Final Projects Due**
 
 ## Course Text and References
 There is no book required for this course. Any required references will be provided.
