@@ -76,8 +76,8 @@ Below, A# refers to when assignments are given and Q# refers to when quizzes are
 * **10/28: Intro to and Utilizing OOP** (A4 due)
 * **11/04: Intro to Interactive Visualizations and Dashboards** (A5, Q5)
 * **11/11: Building robust dashboards** (A6) (A5 due)
-* **11/18: Multivariate Data and Transforms** (Q6) (A6 due)
-* **11/25: Correlation and Fitting** (A7, Q7)
+* **11/18: Multivariate Data and Transforms** (Q6)
+* **11/25: Correlation and Fitting** (A7, Q7) (A6 due)
 * **12/02: Geographic Data and Visualizations** (A8, Q8) (A7 due)
 * **12/09: Final Project Help - Extended Office Hours from 5-9pm** (A8 due)
 * **12/16: Final Projects Due**
