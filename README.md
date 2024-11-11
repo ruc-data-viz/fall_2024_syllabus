@@ -64,7 +64,7 @@ There will be opportunities for extra credit. Any point(s) awarded are applied d
 
 Our week-to-week is organized as follows, though it is subject to change depending on class pace. Quizzes are take-home, due Wednesday at 11:59pm from when they are given (~48 hours). You will have 45 minutes to complete the quiz from the time you accept the Quiz to the time you submit the Quiz, which I will track via GitHub. See Canvas announcement posted September 30, 2024 called "Quizzes" for more information.
 
-Below, A# refers to when assignments are given and Q# refers to when quizzes are given. There is also a note for when the individual Assignments are due, which is always one week after they are given.
+Below, A# refers to when assignments are given and Q# refers to when quizzes are given. There is also a note for when the individual Assignments are due, which is always one week after they are given, except Assignment 6 which is two weeks.
 
 * **09/09: Course Introduction, Course Tools, Python Programming, `Jupyter`** (A1)
 * **09/16: More on Python Programming, and Intro to `NumPy`, `pandas`** (A2) (A1 due)
